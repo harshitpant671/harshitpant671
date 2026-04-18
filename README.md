@@ -35,7 +35,7 @@
 ✔️ Parallel Execution  
 ✔️ CI/CD Integration  
 
-👉 https://github.com/yourusername/playwright-framework  
+👉 https://github.com/harshit-webkul/bagisto  
 
 ---
 
@@ -44,7 +44,11 @@
 ✔️ Auth & Schema Validation  
 ✔️ Data-driven testing  
 
-👉 https://github.com/yourusername/api-automation  
+## GraphQL API
+👉 https://github.com/harshit-webkul/rest-api/tree/harshit
+
+## Rest API
+👉 https://github.com/harshit-webkul/headless-ecommerce/tree/main/tests/e2e-pw
 
 ---
 
@@ -52,7 +56,7 @@
 ✔️ Checkout, Payment, Order flow  
 ✔️ End-to-End scenarios  
 
-👉 https://github.com/yourusername/ecommerce-testing  
+👉 https://github.com/harshit-webkul/bagisto
 
 ---
 
