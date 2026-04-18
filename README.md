@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack  
 
 <p> 
-  <img src="https://skillicons.dev/icons?i=js,ts,python,selenium,git,github,jenkins" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,selenium,git,github,jenkins" /> 
 </p>
 
 <p>
@@ -49,11 +49,11 @@
 ✔️ Auth & Schema Validation  
 ✔️ Data-driven testing  
 
-### GraphQL API
-👉 https://github.com/harshit-webkul/rest-api/tree/harshit
+### GraphQL API  
+👉 https://github.com/harshit-webkul/rest-api/tree/harshit  
 
-### Rest API
-👉 https://github.com/harshit-webkul/headless-ecommerce/tree/main/tests/e2e-pw
+### Rest API  
+👉 https://github.com/harshit-webkul/headless-ecommerce/tree/main/tests/e2e-pw  
 
 ---
 
@@ -61,14 +61,14 @@
 ✔️ Checkout, Payment, Order flow  
 ✔️ End-to-End scenarios  
 
-👉 https://github.com/harshit-webkul/bagisto
+👉 https://github.com/harshit-webkul/bagisto  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-webkul&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=harshit-webkul&theme=radical" />
 </p>
 
 ---
