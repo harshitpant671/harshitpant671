@@ -22,8 +22,13 @@
 
 ## 🛠️ Tech Stack  
 
+<p> 
+  <img src="https://skillicons.dev/icons?i=js,ts,python,selenium,git,github,jenkins" /> 
+</p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,playwright,selenium,postman,git,github,jenkins" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
