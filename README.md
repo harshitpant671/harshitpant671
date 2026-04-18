@@ -49,10 +49,10 @@
 ✔️ Auth & Schema Validation  
 ✔️ Data-driven testing  
 
-## GraphQL API
+### GraphQL API
 👉 https://github.com/harshit-webkul/rest-api/tree/harshit
 
-## Rest API
+### Rest API
 👉 https://github.com/harshit-webkul/headless-ecommerce/tree/main/tests/e2e-pw
 
 ---
